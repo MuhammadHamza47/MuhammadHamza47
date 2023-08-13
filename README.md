@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad Hamza
+- 👋 Hi, I’m Muhammad Hamza
 - 🔭 Currently working As MERN Stack Engineer.
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate with other content creators and developers.
