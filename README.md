@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+<img align="right" width="400" alt="coding" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&usqp=CAU)"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhamza47&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhamza47" /> </p>
 
