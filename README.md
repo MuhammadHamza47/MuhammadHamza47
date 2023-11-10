@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
@@ -21,8 +22,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhamza47&show_icons=true&locale=en&layout=compact" alt="muhammadhamza47" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza47&show_icons=true&locale=en" alt="muhammadhamza47" /></p>
+<div style="flex"><p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza47&" alt="muhammadhamza47" /></p>
+<p align="right"><img align="center" src="https://leetcard.jacoblin.cool/Hafiz_Hamza?ext=heatmap" alt="leetcode"/></p></div>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza47&" alt="muhammadhamza47" /></p>
-<p align="right"><img align="center" src="https://leetcard.jacoblin.cool/Hafiz_Hamza?ext=heatmap" alt="leetcode"/></p>
 
 
