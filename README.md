@@ -6,12 +6,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhamza47&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhamza47" /> </p>
 
+- 🔭 I’m currently working as **Frontend Developer**
+
+- 🌱 I’m currently learning **Next JS, React native**
+
+- 👯 I’m looking to collaborate **with other content creators and developers**
+
+- 💬 Ask me about **react JS and next JS**
+
 - 📫 How to reach me **hafizhamza2247@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hamza-3b3059260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-hamza-3b3059260/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100057527400939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100057527400939" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-hamza-3b3059260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-hamza-3b3059260" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hafiz_hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hafiz_hamza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
