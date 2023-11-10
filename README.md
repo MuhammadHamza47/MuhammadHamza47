@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza47&show_icons=true&locale=en" alt="muhammadhamza47" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza47&" alt="muhammadhamza47" /></p>
-<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/Hafiz_Hamza?ext=heatmap" alt="leetcode"/></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamza47&" alt="muhammadhamza47" /></p>
+<p align="right"><img align="center" src="https://leetcard.jacoblin.cool/Hafiz_Hamza?ext=heatmap" alt="leetcode"/></p>
 
 
