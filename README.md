@@ -44,8 +44,11 @@ React · Node.js · MongoDB
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamza47&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=MuhammadHamza47&show_icons=true&theme=dark)
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=MuhammadHamza47&icon=5)
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadHamza47&label=Profile%20Views&color=0e75b6&style=flat)
