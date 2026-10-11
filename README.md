@@ -6,6 +6,7 @@
   <a href="mailto:hafizhamza2247@gmail.com"><img src="https://img.shields.io/badge/Email-hafizhamza2247%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.npmjs.com/~m-hamza"><img src="https://img.shields.io/badge/npm-m--hamza-CB3837?style=flat&logo=npm&logoColor=white" alt="npm"></a>
   <img src="https://img.shields.io/badge/Based%20in-Lahore%2C%20Pakistan-2ea44f?style=flat" alt="Lahore, Pakistan">
+  <img src="https://img.shields.io/badge/Open%20to%20work-React%20Native%20%26%20Full--Stack-0e75b6?style=flat" alt="Open to work">
 </p>
 
 <p align="center">
@@ -41,7 +42,7 @@ Or drop your build on the website: **[rn-size-check-web.vercel.app](https://rn-s
 
 ## Work I've shipped
 
-Client products, described by what they do rather than by name.
+Client products, described by what they do rather than by name. Happy to go through the details in an interview.
 
 | Product | What I built | Stack |
 |---|---|---|
@@ -81,7 +82,7 @@ Client products, described by what they do rather than by name.
 
 ## Let's talk
 
-Happy to talk about React Native, full-stack work or developer tools. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/muhammadhamza247/) or [email](mailto:hafizhamza2247@gmail.com).
+**I'm open to new roles** as a React Native or full-stack developer, remote or in Pakistan. I'm also happy to talk about developer tools. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/muhammadhamza247/) or [email](mailto:hafizhamza2247@gmail.com).
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadHamza47&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
