@@ -2,10 +2,11 @@
 <h3 align="center">Full-Stack Developer · React Native · React · Node.js · AI integration</h3>
 
 <p align="center">
+  <a href="https://muhammadhamza.io"><img src="https://img.shields.io/badge/Website-muhammadhamza.io-2ea44f?style=flat&logo=firefox&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/muhammadhamza247/"><img src="https://img.shields.io/badge/LinkedIn-muhammadhamza247-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:hafizhamza2247@gmail.com"><img src="https://img.shields.io/badge/Email-hafizhamza2247%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:hello@muhammadhamza.io"><img src="https://img.shields.io/badge/Email-hello%40muhammadhamza.io-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.npmjs.com/~m-hamza"><img src="https://img.shields.io/badge/npm-m--hamza-CB3837?style=flat&logo=npm&logoColor=white" alt="npm"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Lahore%2C%20Pakistan-2ea44f?style=flat" alt="Lahore, Pakistan">
+  <img src="https://img.shields.io/badge/Based%20in-Faisalabad%2C%20Pakistan-2ea44f?style=flat" alt="Faisalabad, Pakistan">
   <img src="https://img.shields.io/badge/Open%20to%20work-React%20Native%20%26%20Full--Stack-0e75b6?style=flat" alt="Open to work">
 </p>
 
@@ -15,15 +16,16 @@
 
 ## About me
 
-I'm a full-stack developer with nearly 3 years of experience building web and mobile products with **React, React Native, TypeScript and Node.js**.
+I'm a full-stack developer with 3+ years of experience building web and mobile products with **React, React Native, TypeScript, Next.js, and Node.js**.
 
-- 📱 Shipped React Native apps to the **Google Play Store** and **Apple App Store**, handling signing, deep links and store releases end to end
+- 🌐 Personal website & engineering portfolio: **[muhammadhamza.io](https://muhammadhamza.io)**
+- 📱 Shipped React Native apps to the **Google Play Store** and **Apple App Store**, handling signing, deep links, and store releases end to end
 - 🧩 Built modules for **B2B SaaS platforms** in React and TypeScript, working with backend teams on APIs and data models
 - 🤖 Put **AI features into production**: chat assistants, lead scoring, AI valuations, image embeddings with vector search, on-device pose estimation
-- 🛠️ Comfortable on the backend too: Express, FastAPI, Socket.IO, MongoDB, PostgreSQL, Redis, and deploying to a Linux VPS with Nginx, PM2 and GitHub Actions
+- 🛠️ Comfortable on the backend too: Express, FastAPI, Socket.IO, MongoDB, PostgreSQL, Redis, and deploying to a Linux VPS with Nginx, PM2, and GitHub Actions
 - 🏆 Received the **Excellence Award 2025** at TechloSet Solutions
 
-**Right now:** Junior Software Developer at **TechloSet Solutions**, and building [**rn-size-check**](https://github.com/MuhammadHamza47/rn-size-check) in my free time.
+**Right now:** Software Developer at **TechloSet Solutions**, and building [**rn-size-check**](https://github.com/MuhammadHamza47/rn-size-check) in my free time.
 
 ## Open source
 
