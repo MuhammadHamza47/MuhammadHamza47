@@ -1,28 +1,30 @@
 <h1 align="center">Hi, I'm Muhammad Hamza 👋</h1>
-<h3 align="center">Full-Stack Developer · React Native · React · Node.js · AI integration</h3>
+<h3 align="center">AI Product Engineer · Full-Stack · React Native</h3>
 
 <p align="center">
-  <a href="https://muhammadhamza.io"><img src="https://img.shields.io/badge/Website-muhammadhamza.io-2ea44f?style=flat&logo=firefox&logoColor=white" alt="Website"></a>
+  <a href="https://muhammadhamza.io"><img src="https://img.shields.io/badge/Portfolio-muhammadhamza.io-2ea44f?style=flat&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://rn-size-check-web.vercel.app"><img src="https://img.shields.io/badge/rn--size--check-Website-2ea44f?style=flat&logo=react&logoColor=white" alt="rn-size-check website"></a>
   <a href="https://www.linkedin.com/in/muhammadhamza247/"><img src="https://img.shields.io/badge/LinkedIn-muhammadhamza247-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hello@muhammadhamza.io"><img src="https://img.shields.io/badge/Email-hello%40muhammadhamza.io-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.npmjs.com/~m-hamza"><img src="https://img.shields.io/badge/npm-m--hamza-CB3837?style=flat&logo=npm&logoColor=white" alt="npm"></a>
+  <a href="https://www.npmjs.com/package/rn-size-check"><img src="https://img.shields.io/badge/npm-rn--size--check-CB3837?style=flat&logo=npm&logoColor=white" alt="rn-size-check on npm"></a>
   <img src="https://img.shields.io/badge/Based%20in-Faisalabad%2C%20Pakistan-2ea44f?style=flat" alt="Faisalabad, Pakistan">
-  <img src="https://img.shields.io/badge/Open%20to%20work-React%20Native%20%26%20Full--Stack-0e75b6?style=flat" alt="Open to work">
+  <img src="https://img.shields.io/badge/Open%20to%20work-AI%20%C2%B7%20Full--Stack%20%C2%B7%20React%20Native-0e75b6?style=flat" alt="Open to work">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=React+Native+apps+on+Play+Store+%26+App+Store;B2B+SaaS+dashboards+with+React+%26+TypeScript;AI+features+in+production+apps;Building+rn-size-check&center=true&width=560&height=45" alt="Typing intro">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+features+in+production+apps;React+Native+apps+on+Play+Store+%26+App+Store;LLM+assistants%2C+RAG%2C+embeddings%2C+pose+estimation;Building+rn-size-check&center=true&width=560&height=45" alt="Typing intro">
 </p>
 
 ## About me
 
-I'm a full-stack developer with 3+ years of experience building web and mobile products with **React, React Native, TypeScript, Next.js, and Node.js**.
+I'm an AI product engineer with 3+ years of experience building web and mobile products with **React, React Native, TypeScript, Next.js, and Node.js**, and putting AI features into production where real users depend on them.
 
-- 🌐 Personal website & engineering portfolio: **[muhammadhamza.io](https://muhammadhamza.io)**
+- 🌐 Portfolio: **[muhammadhamza.io](https://muhammadhamza.io)**
+- 📦 rn-size-check: **[Website](https://rn-size-check-web.vercel.app)** · **[npm](https://www.npmjs.com/package/rn-size-check)** · **[GitHub](https://github.com/MuhammadHamza47/rn-size-check)**
 - 📱 Shipped React Native apps to the **Google Play Store** and **Apple App Store**, handling signing, deep links, and store releases end to end
 - 🧩 Built modules for **B2B SaaS platforms** in React and TypeScript, working with backend teams on APIs and data models
-- 🤖 Put **AI features into production**: chat assistants, lead scoring, AI valuations, image embeddings with vector search, on-device pose estimation
-- 🛠️ Comfortable on the backend too: Express, FastAPI, Socket.IO, MongoDB, PostgreSQL, Redis, and deploying to a Linux VPS with Nginx, PM2, and GitHub Actions
+- 🤖 Put **AI features into production**: LLM chat assistants, AI deal valuation and lead scoring, image embeddings with vector search, and on-device pose estimation that counts reps and speaks LLM-written corrections
+- 🛠️ Comfortable on the backend too: Express, FastAPI, NestJS, Socket.IO, MongoDB, PostgreSQL, Redis, and deploying to a Linux VPS with Nginx, PM2, and GitHub Actions
 - 🏆 Received the **Excellence Award 2025** at TechloSet Solutions
 
 **Right now:** Software Developer at **TechloSet Solutions**, and building [**rn-size-check**](https://github.com/MuhammadHamza47/rn-size-check) in my free time.
@@ -34,13 +36,15 @@ I'm a full-stack developer with 3+ years of experience building web and mobile p
 [![npm](https://img.shields.io/npm/v/rn-size-check?color=CB3837&logo=npm)](https://www.npmjs.com/package/rn-size-check)
 [![CI](https://github.com/MuhammadHamza47/rn-size-check/actions/workflows/ci.yml/badge.svg)](https://github.com/MuhammadHamza47/rn-size-check/actions/workflows/ci.yml)
 
+**Website:** [rn-size-check-web.vercel.app](https://rn-size-check-web.vercel.app) · **npm:** [npmjs.com/package/rn-size-check](https://www.npmjs.com/package/rn-size-check) · **GitHub:** [github.com/MuhammadHamza47/rn-size-check](https://github.com/MuhammadHamza47/rn-size-check)
+
 Point it at an Android `.aab` or `.apk` and it shows what takes the space and how many MB each fix saves: R8 turned off, every CPU type bundled, unstripped native libraries, big PNGs, unused icon fonts, duplicate files. It came out of shrinking a React Native game's APK from **143.7 MB to 49.4 MB**.
 
 ```bash
 npx rn-size-check android/app/build/outputs/bundle/release/app-release.aab
 ```
 
-Or drop your build on the website: **[rn-size-check-web.vercel.app](https://rn-size-check-web.vercel.app)**. It's read in your browser and never uploaded.
+Or drop your build on the website. It's read in your browser and never uploaded.
 
 ## Work I've shipped
 
@@ -58,9 +62,10 @@ Client products, described by what they do rather than by name. Happy to go thro
 
 ## Personal projects
 
-- **PhysioCoach AI:** physiotherapy coaching. The patient app counts reps and scores form with on-device pose estimation, and speaks corrections in real time. The clinician dashboard has a program builder and AI-written weekly reports. *React Native, Next.js, FastAPI, MediaPipe, Groq (Llama, Whisper)*
-- **[rn-size-check](https://github.com/MuhammadHamza47/rn-size-check):** see above. *TypeScript, Node.js, React, Vite*
-- Earlier: [Organic e-commerce store](https://organicopk.vercel.app) (Next.js, Firebase) · [CRM app](https://basic-crm-lemon.vercel.app/login) (React, Node.js, MongoDB) · [Doctor appointment system](https://doctor-appoinment-system-indol.vercel.app) · [Portfolio](https://portfolio-hamza-kappa.vercel.app)
+- **[Portfolio](https://muhammadhamza.io):** my engineering portfolio with case studies and product work. *Next.js, TypeScript*
+- **[rn-size-check](https://github.com/MuhammadHamza47/rn-size-check)** ([website](https://rn-size-check-web.vercel.app) · [npm](https://www.npmjs.com/package/rn-size-check)): React Native Android size analyzer that shows what takes space and how many MB each fix saves. *TypeScript, Node.js, React, Vite*
+- **PhysioCoach AI:** physiotherapy coaching. The patient app counts reps and scores form with on-device pose estimation (MediaPipe), and speaks LLM-written corrections in real time. The clinician dashboard has a program builder and AI-written weekly reports. *React Native, Next.js, FastAPI, MediaPipe, Groq (Llama, Whisper)*
+- Earlier: [Organic e-commerce store](https://organicopk.vercel.app) (Next.js, Firebase) · [CRM app](https://basic-crm-lemon.vercel.app/login) (React, Node.js, MongoDB) · [Doctor appointment system](https://doctor-appoinment-system-indol.vercel.app)
 
 ## Tech I use
 
@@ -71,8 +76,10 @@ Client products, described by what they do rather than by name. Happy to go thro
 </p>
 
 - **Mobile:** React Native (Android & iOS), Expo, React Navigation, Reanimated, Firebase Auth & FCM, Google Maps, deep linking, RevenueCat
-- **Backend:** Node.js, Express, FastAPI, REST, Socket.IO, JWT, OAuth, RBAC, BullMQ, cron jobs
-- **AI:** Claude, Gemini and Llama (Groq) APIs, chat assistants, prompt engineering, embeddings and vector search (pgvector), MediaPipe, Whisper
+- **Web:** React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit
+- **Backend:** Node.js, Express, NestJS, FastAPI, REST, Socket.IO, JWT, OAuth, RBAC, BullMQ, cron jobs
+- **Data:** PostgreSQL, MongoDB, Redis, Supabase, Firebase, Prisma
+- **AI:** Claude, Gemini, Groq (Llama), RAG, chat assistants, prompt engineering, embeddings and vector search (pgvector), MediaPipe, Whisper
 - **Quality & ops:** GitHub Actions CI/CD, Cypress, Datadog, PM2, Stripe
 
 ## GitHub stats
@@ -84,7 +91,7 @@ Client products, described by what they do rather than by name. Happy to go thro
 
 ## Let's talk
 
-**I'm open to new roles** as a React Native or full-stack developer, remote or in Pakistan. I'm also happy to talk about developer tools. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/muhammadhamza247/) or [email](mailto:hafizhamza2247@gmail.com).
+**I'm open to new roles** as an AI product engineer, React Native, or full-stack developer (remote, or on-site in Faisalabad, Lahore or Islamabad). I'm also happy to talk about developer tools. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/muhammadhamza247/) or [email](mailto:hello@muhammadhamza.io).
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadHamza47&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
